@@ -6,9 +6,7 @@
 ###### Header content
 ![Image of code pano](https://www.incimages.com/uploaded_files/image/1920x1080/code-pano_22148.jpg)
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-
+```
 function sumFunction(arr, sum) {
   try {
     let index1, index2, sums;
@@ -37,6 +35,11 @@ function sumFunction(arr, sum) {
     console.log(error.message);
   }
 }
+```
+- [x] Item list is req
+- [x] Item list is complete
+- [ ] Item is not checked
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
