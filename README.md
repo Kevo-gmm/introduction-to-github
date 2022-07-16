@@ -4,8 +4,8 @@
 #### Header content
 ##### Header content
 ###### Header content
-
-
+![Image of code pano](https://www.incimages.com/uploaded_files/image/1920x1080/code-pano_22148.jpg)
+https://www.incimages.com/uploaded_files/image/1920x1080/code-pano_22148.jpg
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
