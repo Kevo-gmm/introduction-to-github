@@ -5,7 +5,35 @@
 ##### Header content
 ###### Header content
 ![Image of code pano](https://www.incimages.com/uploaded_files/image/1920x1080/code-pano_22148.jpg)
-https://www.incimages.com/uploaded_files/image/1920x1080/code-pano_22148.jpg
+
+function sumFunction(arr, sum) {
+  try {
+    let index1, index2, sums;
+    let isPresent = true;
+    if (arr.length != 0) {
+      for (let i = 0; i < arr.length; i++) {
+        if (typeof arr[i] === "number") {
+          for (let j = 0; j < arr.length; j++) {
+            index1 = arr[i];
+            index2 = arr[j];
+            sums = index2 + index1;
+            //   console.log(sums);
+            if (sums === sum) {
+              // console.log(arr[i], arr[j]);
+              console.log(isPresent);
+            }
+          }
+        } else {
+          console.log("Not a number");
+        }
+      }
+    } else {
+      console.log("Is an empty array");
+    }
+  } catch (error) {
+    console.log(error.message);
+  }
+}
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
