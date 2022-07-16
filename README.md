@@ -40,6 +40,11 @@ function sumFunction(arr, sum) {
 - [x] Item list is complete
 - [ ] Item is not checked
 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
